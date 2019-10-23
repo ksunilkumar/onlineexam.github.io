@@ -1,0 +1,30 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Feedback</td> 
+				<td>Total Records: 3</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Feedback</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>UserName:</strong>Anusha </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong> FeedBack:</strong>sadas dfhgfj ghjgh hjghjg hjsgdgh ughg gjgh jhj hjhj hjjhj  jhjh jhjhj jkhjhad bnvhbv hjhjkh jhjh jjh mhjkh hjh mjashja</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Create Date :</strong>2010-11-01 00:33:05</td></tr>
+					
+					
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style=' font-weight:bold;'><strong>UserName:</strong>Haribabu </td></tr>
+					<tr><td><strong>Status : Inactive</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong> FeedBack:</strong>dfggdfgdfgdfdfgdgdfg</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Create Date :</strong>2010-11-23 17:32:29</td></tr>
+					
+					
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>UserName:</strong>Dfsgdf </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong> FeedBack:</strong>sdfsdfsdfdsffsdf</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Create Date :</strong>2010-11-23 17:38:39</td></tr>
+					
+					
+					<tr><td>&nbsp;</td></tr></table>

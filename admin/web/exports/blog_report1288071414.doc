@@ -1,0 +1,28 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='5' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Course</td> 
+				<td>Total Records: 21</td></tr>
+				<tr><td colspan='5' align='center' style='color:#336699; font-size:16px;'><strong>Courses</strong></td></tr>
+				<tr bgcolor='#CCCCCC'><td>Grade </td><td>Curriculum</td> <td>No. Of Chapters</td><td>Subject</td><td>References</td></tr><tr><td>AIEEE </td><td>AIEEE</td><td>18 </td>
+					<td>Mathematics </td><td>www.planettutor.in </td></tr><tr><td>XII </td><td>CBSE</td><td>14 </td>
+					<td>Mathematics </td><td>Planettutor </td></tr><tr><td>VI </td><td>CBSE</td><td>12 </td>
+					<td>Mathematics </td><td>www.planettutor.in </td></tr><tr><td>XII </td><td>CPT</td><td>12 </td>
+					<td>Mathematics </td><td>www.wikipedia.com </td></tr><tr><td>VIII </td><td>CBSE</td><td>14 </td>
+					<td>Mathematics </td><td> </td></tr><tr><td>IX </td><td>CBSE</td><td>13 </td>
+					<td>Mathematics </td><td> </td></tr><tr><td>X </td><td>CBSE</td><td>8 </td>
+					<td>Mathematics </td><td>gdftb df </td></tr><tr><td>XII </td><td>ISC</td><td>14 </td>
+					<td>Mathematics </td><td> </td></tr><tr><td>AIPMT </td><td>AIPMT</td><td>13 </td>
+					<td>Biology </td><td> </td></tr><tr><td>AIEEE Chemistry </td><td>AIEEE</td><td>24 </td>
+					<td>Chemistry </td><td> </td></tr><tr><td>XII </td><td>CBSE</td><td>11 </td>
+					<td>Physics </td><td> </td></tr><tr><td>XII </td><td>CBSE</td><td>16 </td>
+					<td>Chemistry </td><td> </td></tr><tr><td>XII </td><td>CBSE</td><td>11 </td>
+					<td>Biology </td><td> </td></tr><tr><td>XII </td><td>CBSE</td><td>15 </td>
+					<td>Mathematics </td><td>www.google.com </td></tr><tr><td>X </td><td>CBSE</td><td>6 </td>
+					<td>Chemistry </td><td> </td></tr><tr><td>IX </td><td>CBSE</td><td>6 </td>
+					<td>Physics </td><td> </td></tr><tr><td>IX </td><td>CBSE</td><td>5 </td>
+					<td>Chemistry </td><td>gfhfgh </td></tr><tr><td>IX </td><td>CBSE</td><td>6 </td>
+					<td>Biology </td><td> </td></tr><tr><td>VII </td><td>CBSE</td><td>1 </td>
+					<td>Science </td><td> </td></tr><tr><td>VIII </td><td>CBSE</td><td>1 </td>
+					<td>Science </td><td> </td></tr><tr><td>VI </td><td>CBSE</td><td>1 </td>
+					<td>Science </td><td> </td></tr></table>

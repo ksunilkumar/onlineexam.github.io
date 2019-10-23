@@ -1,0 +1,20 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>Ismart Exams</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: City</td> 
+				<td>Total Records: 2</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>City</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td><font style='font-size:14px; color:#009966; font-weight:bold;'>City:</font>Losangles </td></tr>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>State:Ajman </td></tr>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Country:Afganistan </td></tr>
+					 
+				
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td><font style='font-size:14px; color:#009966; font-weight:bold;'>City:</font>Ongole </td></tr>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>State:Andhra Pradesh </td></tr>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Country:India </td></tr>
+					 
+				
+					<tr><td>&nbsp;</td></tr></table>

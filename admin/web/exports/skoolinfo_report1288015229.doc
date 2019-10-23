@@ -1,0 +1,42 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Skoolinfo</td> 
+				<td>Total Records: 6</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Skoolinfo</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>aboutus123</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>admission123</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1282816689.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>faculty123</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>student life123</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>About Our School</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>Admissions</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1287991630.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>Faculty</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>students</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>about us</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>admissions</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1287991779.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>faculty</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>student</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>about us</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>admission</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1287991841.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>faculty</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>students</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>about us</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>admissions</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1287991890.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>faculty</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>student</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style=' font-weight:bold;'><strong>Skool Title:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>About Skool:</strong><p>about us</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Skool Admissions :</strong><p>admission</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Video Image :</strong><img src=http://localhost/qse/uploads/schoollogos/1287991937.jpg height='80' width='80' style='align:absmiddle;'></td></tr>	<tr><td style='padding-left:5px;'><strong>Skool Faculty :</strong><p>faculty</p></td></tr><tr><td style='padding-left:5px;'><strong>Student Life :</strong><p>students</p></td></tr><tr><td>&nbsp;</td></tr></table></tr></td>

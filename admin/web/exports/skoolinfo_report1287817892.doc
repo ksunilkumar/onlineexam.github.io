@@ -1,0 +1,18 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Schools</td> 
+				<td>Total Records: 1</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Schools</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style=' font-weight:bold;'><strong>School Name:</strong> </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>	Affilicated_to:</strong>ANU</td></tr>
+					<tr><td style='padding-left:5px;'><strong>School strength 	 :</strong>500</td></tr>
+					<tr><td style='padding-left:5px;'><strong>School principal :</strong>Haribabu</td></tr>
+					<tr><td style='padding-left:5px;'><strong>School Contact Person:</strong>Hari</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Contact Number :</strong>9290692104</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Contact Email :</strong></td></tr>
+					<tr><td style='padding-left:5px;'><strong>product_feature 	 :</strong>basic</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Date	 :</strong>2010-08-28</td></tr>
+					<tr><td>&nbsp;</td></tr></table>

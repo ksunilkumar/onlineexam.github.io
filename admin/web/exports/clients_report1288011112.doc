@@ -1,0 +1,41 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Clients</td> 
+				<td>Total Records: 7</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Clients</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Http://qatarsmarteducation.com </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985584.gif height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Www.teachtalky.com </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985548.png height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Www.healthystart.com </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985502.gif height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Http://www.mconfy.com/ </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985479.gif height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Http://www.inconfy.com/ </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985182.gif height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Www.google.com </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287983315.jpg height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					<tr><td style='font-size:14px; color:#009966; font-weight:bold;'>Link:Http://ismarteducation.com </td></tr>
+					<tr><td><strong>Status : Active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><img src=http://localhost/qse/uploads/clients/1287985622.gif height='80' width='80'> </td></tr>
+					<tr><td>&nbsp;</td></tr></table>

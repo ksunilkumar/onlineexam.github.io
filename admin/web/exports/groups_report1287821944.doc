@@ -1,0 +1,16 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Groups</td> 
+				<td>Total Records: 1</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Groups</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					
+					<tr><td><strong>Status : active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name</strong>ghjgh</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description</strong><p>jghjghjg</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category</strong></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image</strong><im src=http://localhost/qse/uploads/groups1287821940.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website</strong>hjghj </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id</strong>ghjghjghj@dgdf.jhg</td></tr>
+					<tr><td>&nbsp;</td></tr></table>

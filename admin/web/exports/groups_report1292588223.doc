@@ -1,0 +1,15 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>Ismart Exams</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Groups</td> 
+				<td>Total Records: 1</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Groups</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>group1</td></tr>
+					<tr><td style='padding-left:5px;'><strong>No Of Users:&nbsp;</strong>0</td></tr>
+					<tr><td style='padding-left:5px;'><strong>School:&nbsp;</strong> Rock Memorial High School</td></tr>
+					<tr><td style='padding-left:5px;'><strong>No Of Comments:&nbsp;</strong>0</td></tr>
+					
+					<tr><td>&nbsp;</td></tr></table>

@@ -1,0 +1,134 @@
+<script language="JavaScript" type="text/javascript">
+<!-- Copyright 2003, Sandeep Gangadharan -->
+<!-- For more free scripts go to http://sivamdesign.com/scripts/ -->
+<!--
+var y1 = 220;   // change the # on the left to adjuct the Y co-ordinate
+(document.getElementById) ? dom = true : dom = false;
+
+function hideIt1() {
+  if (dom) {document.getElementById("layer1").style.visibility='hidden';}
+}
+
+function showIt1() {
+  if (dom) {document.getElementById("layer1").style.visibility='visible';}
+}
+
+function placeIt1() {
+  if (dom && !document.all) {document.getElementById("layer1").style.top = window.pageYOffset + (window.innerHeight - (window.innerHeight-y1)) + "px";}
+  if (document.all) {document.all["layer1"].style.top = document.documentElement.scrollTop + (document.documentElement.clientHeight - (document.documentElement.clientHeight-y1)) + "px";}
+  window.setTimeout("placeIt1()", 1); }
+// -->
+</script>
+
+
+<style>
+span
+{
+cursor:pointer;
+color:grey;
+background:white;
+}
+</style>
+
+<script type="text/javascript">
+var msec=0
+var sec=0
+var min=0
+var hr=0
+function start(hrs,time)
+{
+//alert(time);
+if(hrs==0){
+document.getElementById('timer').value=min+":"+sec+":"+msec
+}
+else
+{
+document.getElementById('timer').value=hr+":"+min+":"+sec+":"+msec}
+go=setTimeout("start("+hrs+","+time+")",1)
+msec++
+if(msec>80)
+{
+msec=0
+sec++
+}
+if(sec==60)
+{
+sec=0
+min++
+}
+if(hrs==0)
+{
+	//alert('hi');
+	var time1=parseInt(time-1);
+	//alert(time1);
+	if(min==time1 && sec==55)
+	{
+		document.getElementById('subm').innerHTML="";
+		document.testform.submit();
+	}
+}
+else
+{
+	//alert('hello');
+	var time1=parseInt(time-1);
+	if(min==60)
+	{
+	hr++;
+	min=0;	
+	}
+	if(hrs==hr && min==0 && sec==0)
+	{
+		document.getElementById('subm').innerHTML="";
+		document.testform.submit();
+	}
+
+
+
+
+}
+}
+function stop()
+{
+clearTimeout(go)
+}
+function reset()
+{
+window.location.reload()
+}
+function over1(test)
+{document.getElementById('over1').style.background=test}
+function out1(test)
+{document.getElementById('over1').style.background=test}
+function over2(test)
+{document.getElementById('over2').style.background=test}
+function out2(test)
+{document.getElementById('over2').style.background=test}
+function over3(test)
+{document.getElementById('over3').style.background=test}
+function out3(test)
+{document.getElementById('over3').style.background=test}
+</script>
+ <div id="layer1" style="position:absolute; left:50px; width:40px; height:10; visibility:hidden">
+   <div style="float:left; color:#FF0000 padding:0px; border:0px solid black"><table width="87" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top"><table width="87" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top"><img src="images/timer.jpg" width="59" height="16" class="timer_space" /> </td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" height="20" valign="middle" background="images/timer_bg.jpg" class="running_txt_grey1">
+   
+<input type="text" id="timer" name="timer" size="8" value="00:00:00:00" style="border:0px solid white; font-weight:bold; font-size:15px" >
+</td>
+  </tr>
+</table>
+</div>
+</div>
+<!--
+<div id="layer1" style="position:absolute; left:50px; width:40px; height:10; visibility:hidden">
+   <div style="float:left; background-color:red; color:#FF0000 padding:0px; border:0px solid black">
+<input type="text" id="timer" name="timer" size="8" value="00:00:00:00" style="border:0px solid white; font-weight:bold; font-size:15px" >
+</div>
+</div>-->

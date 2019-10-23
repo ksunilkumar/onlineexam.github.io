@@ -1,0 +1,66 @@
+<table align='center' border=1 width='100%' bordercolor='black' style='font-family:verdana; font-size:11px;'>
+				<tr bgcolor='#72ACF3'><td colspan='2' height='30' align='center' style='font-size:14px;'><b>QSE</b></td></tr>
+				<tr  bgcolor='#72ACF3'>
+				<td>Search Criteria: Groups</td> 
+				<td>Total Records: 6</td></tr>
+				<tr><td colspan='2' align='center' style='color:#336699; font-size:16px;'><strong>Groups</strong></td></tr><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>Friends Group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>Friends Group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287993113.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>www.google.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>qse group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>qse group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287993041.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>www.google.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>New group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>New group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287993012.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>www.google.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>my group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>my group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287992979.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>www.google.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#FFFFFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>php group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>php group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287992900.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>php.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table><tr><td colspan='2'>
+					<table border=0 width='100%' style='font-family:verdana; font-size:11px;  background-color:#F4FCFF; '>
+					
+					<tr><td><strong>Status :&nbsp; active</strong> </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Name:&nbsp;</strong>design group</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Description:&nbsp;</strong><p>design group</p></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Category:&nbsp;</strong>Genral</td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Image:&nbsp;</strong><img src=http://localhost/qse/uploads/groups/1287992946.jpg height='80' width='80'></td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Website:&nbsp;</strong>www.google.com </td></tr>
+					<tr><td style='padding-left:5px;'><strong>Group Email Id:&nbsp;</strong>dayakar@robotutor.in</td></tr>
+					<tr><td>&nbsp;</td></tr></table>
